@@ -1,0 +1,8 @@
+{
+    "mysql": {
+        "use": true,
+        "username": "root",
+        "password": "root",
+        "host": "localhost:3306"
+    }
+}
